@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DAMEP_PHZ</string>
+    <string name="textview_EsSalud">EsSalud</string>
+    <string name="textView_Bienvenido">Bienvenido(a)</string>
+    <string name="txtDNI">Documento de identidad</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnCrearCuenta">Crear Cuenta</string>
+    <string name="textViewOlvidarContraseña">¿Olvidaste tu contraseña?</string>
+    <string name="textViewCrearCuenta">¿Aun no tienes una cuenta\nEsSalud Mi Consulta?</string>
+    <string name="textViewConsulta">Consultas al 3500800 Opción 2 para Lima y\nCallao</string>
+    <string name="textViewProvincias">Provincias a EsSalud en linea de la Red de su\nRegión(http://www.essalud.gob.pe/essalud-en\n-linea)</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="PlaceholderConstraseña">Constraseña</string>
+    <string name="textview_EsSaludhint">Documento de identidad</string>
+</resources>
